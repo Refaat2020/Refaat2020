@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Refaat Rady</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
-<img align="right" alt="Coding" width="300" src="https://i0.wp.com/physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif?resize=326%2C245&ssl=1")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refaat2020&label=Profile%20views&color=0e75b6&style=flat" alt="refaat2020" /> </p>
 
@@ -18,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/refaat rady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="refaat rady" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/refaat-rady-b7283ab4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="refaat-rady-b7283ab4/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
