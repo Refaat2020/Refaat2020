@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **refaattaha2020@gmail.com**
 
-- 📄 Know about my experiences [Refaat.CV]([https://cutt.ly/R0p8KnC](https://drive.google.com/file/d/1GDTE673t0dr9YrNDUqxVtiHfMfGLNDIS/view))
+- 📄 Know about my experiences [Refaat.CV](https://drive.google.com/file/d/1GDTE673t0dr9YrNDUqxVtiHfMfGLNDIS/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
