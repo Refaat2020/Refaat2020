@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IOS development**
 
-- 👯 I’m collaborate on [Bona invest app](https://play.google.com/store/apps/details?id=com.bona.invest)
+- 👯 I’m collaborating on [Bona invest app](https://play.google.com/store/apps/details?id=com.bona.invest)
 
 - 💬 Ask me about **Flutter,dart**
 
