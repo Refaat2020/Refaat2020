@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refaat2020&label=Profile%20views&color=0e75b6&style=flat" alt="refaat2020" /> </p>
 
-- 🧑🏻‍💻 I’m currently working with [Tawanya on mobile app](https://apps.apple.com/us/app/tawuniya-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A9/id1639353191)
+- 🧑🏻‍💻 I’m currently working with [Innoscripta on mobile apps]([https://apps.apple.com/us/app/tawuniya-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D8%A9/id1639353191](https://www.innoscripta.com/en))
 
-- 🌱 I’m currently learning **IOS development**
-
-- 👯 I’m collaborating on [Bona invest app](https://play.google.com/store/apps/details?id=com.bona.invest)
+- 🌱 I’m currently learning **DEVOPS**
 
 - 💬 Ask me about **Flutter,dart**
 
