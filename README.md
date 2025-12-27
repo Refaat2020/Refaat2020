@@ -10,7 +10,6 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working remotely with **[Innoscripta SE](https://www.innoscripta.com/en)** on internal mobile apps (Time Tracking & Live Chat).
-- 🎓 Pursuing an MSc in **Applied Informatics** at **University of Aveiro**, Portugal.
 - 🌱 Currently learning **DevOps**, CI/CD pipelines, and performance monitoring.
 - 💬 Ask me about **Flutter**, **Dart**, **Firebase**, **RESTful APIs**, **GraphQL**, and **real-time apps**.
 - 📫 Reach me at: **refaattaha2020@gmail.com**
